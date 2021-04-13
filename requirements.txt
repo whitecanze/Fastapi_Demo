@@ -7,3 +7,4 @@ mysql
 mysql-connector-python
 python-jose
 python-multipart
+gunicorn
